@@ -16,3 +16,8 @@ To run this project you'll need to create a `config.json` file in the root of th
 }
 ```
 
+**References**
+
+- https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview
+- https://docs.microsoft.com/en-us/azure/cognitive-services/face/concepts/face-detection
+- https://westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f3039523c
