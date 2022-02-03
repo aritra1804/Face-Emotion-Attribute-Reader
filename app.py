@@ -44,6 +44,7 @@ def process_face(face, input_file, output_file):
             fr['top'] + fr['height']
         )
     )
+    
     fa = face['faceAttributes']
     em = fa['emotion']
     file_info = 'Age: {}\nGender: {}\n\n'.format(fa['age'], fa['gender'])
